@@ -33,6 +33,5 @@ repository itself as the corpus. The harness ships in the repo — run it yourse
 ---
 
 **Elsewhere:** [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) ·
-tonkonozhenko.mi@gmail.com
 
 *Terraform · AWS · Kubernetes · Python · Tauri*
