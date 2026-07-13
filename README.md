@@ -6,7 +6,7 @@ from your own files and never phones home.
 Certified across AWS (11×, incl. Solutions Architect & DevOps Professional),
 Kubernetes (CKA/CKAD), Terraform and Vault over the years — most recently
 **AWS Generative AI Developer – Professional** and **AI Practitioner** (2026).
-Full list on [LinkedIn](https://linkedin.com/in/YOUR_HANDLE).
+Full list on [LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/maksym-tonkonozhenko-9815b4204/)).
 
 ---
 
